@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ACBarberShop.Application.DTOs.CitaDTO>
+
+@{
+    ViewData["Title"] = "Index";
+
+    // Colores para los estados
+    var estadosColores = new Dictionary<int, string>
+    {
+        { 1, "#505050" }, // Pendiente
+        { 2, "#0000CC" }, // Confirmada
+        { 3, "#FF8C00" }, // Reprogramada
+        { 4, "#006400" }, // Completada
+        { 5, "#B20000" }, // Cancelada
+        { 6, "#CCCC00" }  // No asistió
+    };
+}
+
+<h2 class="mt-4 mb-4">Historial de Citas</h2>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.IdCita)</th>
+                <th>@Html.DisplayNameFor(model => model.IdClienteNavigation.Nombre)</th>
+                <th>@Html.DisplayNameFor(model => model.FechaHora)</th>
+                <th>@Html.DisplayNameFor(model => model.IdEstadoNavigation.Estado)</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.IdCita)</td>
+                    <td>@Html.DisplayFor(modelItem => item.IdClienteNavigation.Nombre)</td>
+                    <td>@Html.DisplayFor(modelItem => item.FechaHora)</td>
+                    <td style="color:@estadosColores[item.IdEstado]">@item.IdEstadoNavigation.Estado</td>
+                    <td style="vertical-align: middle;">
+                        <a href="@Url.Action("Details", new { id = item.IdCita })" class="btn btn-secondary btn-sm btn-block">Detalles</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

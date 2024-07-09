@@ -1,0 +1,124 @@
+﻿@model ACBarberShop.Application.DTOs.SucursalDTO
+
+@{
+    ViewData["Title"] = "Detalles de la Sucursal";
+}
+
+<div class="container mt-5">
+    <div class="card shadow-sm">
+        <div class="card-body">
+            <h4 class="card-title">Información de la Sucursal</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.IdSucursal)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.IdSucursal)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Nombre)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Descripcion)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Descripcion)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Telefono)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Telefono)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.IdDireccion)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.IdDireccionNavigation.DireccionExacta)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.CorreoElectronico)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CorreoElectronico)
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Horario)
+                </dt>
+                <dd class="col-sm-9">
+                    @if (Model.Horario.Any())
+                    {
+                        foreach (var horario in Model.Horario)
+                        {
+                            <p>@horario.DiaSemana: @horario.HoraInicio am a @horario.HoraFin pm</p>
+                        }
+                    }
+                    else
+                    {
+                        <p>Horario no asignado</p>
+                    }
+                </dd>
+                <dt class="col-sm-3 font-weight-bold">
+                    @Html.DisplayNameFor(model => model.Usuario)
+                </dt>
+                <dd class="col-sm-9">
+                    @foreach (var usuario in Model.Usuario)
+                    {
+                        <p>@usuario.Nombre</p>
+                    }
+                </dd>
+            </dl>
+        </div>
+        <div class="card-footer text-muted">
+            <a asp-action="Index" class="btn btn-sm btn-secondary btn-hover">Regresar</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        margin-top: 20px;
+    }
+
+    .card-title {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .font-weight-bold {
+        font-weight: bold;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .text-muted {
+        color: #6c757d;
+    }
+
+    .mt-5 {
+        margin-top: 3rem;
+    }
+
+    .mb-4 {
+        margin-bottom: 1.5rem;
+    }
+
+    .shadow-sm {
+        box-shadow: 0 .125rem .25rem rgba(0,0,0,.075) !important;
+    }
+
+    .btn-hover {
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-hover:hover {
+            background-color: #d3d3d3; /* Fondo gris claro al pasar el mouse sobre los botones */
+            color: #fff; /* Color del texto al pasar el mouse sobre los botones */
+        }
+</style>

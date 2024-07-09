@@ -1,0 +1,77 @@
+﻿@model ACBarberShop.Application.DTOs.CitaDTO
+
+@{
+    ViewData["Title"] = "Detalles de la Cita";
+
+    // Colores para los estados
+    var estadosColores = new Dictionary<int, string>
+    {
+        { 1, "#505050" }, // Pendiente
+        { 2, "#0000CC" }, // Confirmada
+        { 3, "#FF8C00" }, // Reprogramada
+        { 4, "#006400" }, // Completada
+        { 5, "#B20000" }, // Cancelada
+        { 6, "#CCCC00" }  // No asistió
+    };
+}
+
+<div class="card mt-5">
+    <div class="card-header">
+        <h2 class="mb-3">Detalles de la Cita</h2>
+    </div>
+    <div class="card-body">
+        <dl class="row dl-horizontal mb-4">
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.IdCita)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left">
+                <h4>@Html.DisplayFor(model => model.IdCita)</h4>
+            </dd>
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.IdClienteNavigation.Nombre)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left">
+                <h4>@Html.DisplayFor(model => model.IdClienteNavigation.Nombre)</h4>
+            </dd>
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.IdSucursalNavigation.Nombre)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left">
+                <h4>@Html.DisplayFor(model => model.IdSucursalNavigation.Nombre)</h4>
+            </dd>
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.IdServicioNavigation.Nombre)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left">
+                <h4>@Html.DisplayFor(model => model.IdServicioNavigation.Nombre)</h4>
+            </dd>
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.IdEstadoNavigation.Estado)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left" style="color:@estadosColores[Model.IdEstado]">
+                <h4>@Html.DisplayFor(model => model.IdEstadoNavigation.Estado)</h4>
+            </dd>
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.FechaHora)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left">
+                <h4>@Html.DisplayFor(model => model.FechaHora)</h4>
+            </dd>
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.FechaHoraReprogramada)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left">
+                <h4>@(Model.FechaHoraReprogramada.HasValue ? Model.FechaHoraReprogramada.Value.ToString() : "No aplica")</h4>
+            </dd>
+            <dt class="col-sm-4 text-right">
+                <h5 class="mb-0">@Html.DisplayNameFor(model => model.FechaCreacion)</h5>
+            </dt>
+            <dd class="col-sm-8 text-left">
+                <h4>@Html.DisplayFor(model => model.FechaCreacion)</h4>
+            </dd>
+        </dl>
+        <div>
+            <a asp-action="Index" class="btn btn-secondary">Regresar</a>
+        </div>
+    </div>
+</div>

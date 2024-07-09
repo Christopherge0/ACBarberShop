@@ -1,0 +1,100 @@
+﻿@model ACBarberShop.Application.DTOs.ProductoDTO
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h2 class="mb-3">Detalles del Producto</h2>
+                </div>
+                <div class="card-body">
+                    <dl class="row dl-horizontal mb-4">
+                        <dt class="col-sm-4 text-right">
+                            <h5 class="mb-0">@Html.DisplayNameFor(model => model.IdProducto)</h5>
+                        </dt>
+                        <dd class="col-sm-8 text-left">
+                            <!-- Alinea el contenido a la izquierda -->
+                            <h4>@Html.DisplayFor(model => model.IdProducto)</h4>
+                        </dd>
+                        <dt class="col-sm-4 text-right">
+                            <h5 class="mb-0">@Html.DisplayNameFor(model => model.Nombre)</h5>
+                        </dt>
+                        <dd class="col-sm-8 text-left">
+                            <!-- Alinea el contenido a la izquierda -->
+                            <h4>@Html.DisplayFor(model => model.Nombre)</h4>
+                        </dd>
+                        <dt class="col-sm-4 text-right">
+                            <h5 class="mb-0">@Html.DisplayNameFor(model => model.Descripcion)</h5>
+                        </dt>
+                        <dd class="col-sm-8 text-left">
+                            <!-- Alinea el contenido a la izquierda -->
+                            <h4>@Html.DisplayFor(model => model.Descripcion)</h4>
+                        </dd>
+                        <dt class="col-sm-4 text-right">
+                            <h5 class="mb-0">@Html.DisplayNameFor(model => model.IdCategoria)</h5>
+                        </dt>
+                        <dd class="col-sm-8 text-left">
+                            <!-- Alinea el contenido a la izquierda -->
+                            <h4>@Html.DisplayFor(model => model.IdCategoriaNavigation.Nombre)</h4>
+                        </dd>
+                        <dt class="col-sm-4 text-right">
+                            <h5 class="mb-0">@Html.DisplayNameFor(model => model.Precio)</h5>
+                        </dt>
+                        <dd class="col-sm-8 text-left">
+                            <!-- Alinea el contenido a la izquierda -->
+                            <h4>₡@Html.DisplayFor(model => model.Precio)</h4>
+                        </dd>
+                        <dt class="col-sm-4 text-right">
+                            <h5 class="mb-0">@Html.DisplayNameFor(model => model.Volumen)</h5>
+                        </dt>
+                        <dd class="col-sm-8 text-left">
+                            <!-- Alinea el contenido a la izquierda -->
+                            <h4>@Html.DisplayFor(model => model.Volumen)</h4>
+                        </dd>
+                        <dt class="col-sm-4 text-right">
+                            <h5 class="mb-0">@Html.DisplayNameFor(model => model.Marca)</h5>
+                        </dt>
+                        <dd class="col-sm-8 text-left">
+                            <!-- Alinea el contenido a la izquierda -->
+                            <h4>@Html.DisplayFor(model => model.Marca)</h4>
+                        </dd>
+                    </dl>
+                    <div>
+                        <a asp-action="Index" class="btn btn-secondary">Regresar</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card-header h2 {
+        font-size: 1.5rem; /* Aumentar tamaño de la letra en el encabezado */
+    }
+
+    .card-body h4 {
+        font-size: 1rem; /* Aumentar tamaño de la letra en el cuerpo */
+    }
+
+    .dl-horizontal dt {
+        text-align: justify-all;
+    }
+
+        .dl-horizontal dt h5 {
+            font-size: 1.2rem; /* Aumentar tamaño de la letra de los nombres */
+            margin-left: 1rem; /* Elimina el margen inferior */
+        }
+
+    .mb-3 {
+        margin-bottom: 1rem !important; /* Espacio entre el encabezado y el contenido */
+    }
+
+    .mb-4 {
+        margin-bottom: 2rem !important; /* Espacio entre cada elemento de la tarjeta */
+    }
+</style>

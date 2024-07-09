@@ -1,0 +1,82 @@
+﻿@model IEnumerable<ACBarberShop.Application.DTOs.ProductoDTO>
+
+@{
+    ViewData["Title"] = "IndexAdmin";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col">
+            <h1 class="text-center mb-4">Productos</h1>
+        </div>
+        <div>
+            <a href="@Url.Action("Create")" class="btn btn-secondary btn-sm btn-block mt-2 create-button">Agregar Producto</a>
+        </div>
+    </div>
+
+    <div class="row justify-content-center mt-4">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 border-primary d-flex flex-column justify-content-between">
+                    <div>
+                        <div class="card-header text-center">
+                            <h3>@Html.DisplayFor(modelItem => item.Nombre)</h3>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text text-center" style="font-size: 1.2rem;">@Html.DisplayFor(modelItem => item.Descripcion)</p>
+                            <p class="card-text text-center" style="font-size: 1.2rem;">Precio: ₡@Html.DisplayFor(modelItem => item.Precio)</p>
+                            <p class="card-text text-center" style="font-size: 1.2rem;">Marca: @Html.DisplayFor(modelItem => item.Marca)</p>
+                        </div>
+                    </div>
+                    <div>
+                        <a href="@Url.Action("Details", new { id = item.IdProducto })" class="btn btn-secondary btn-sm btn-block mt-3 details-button">Detalles</a>
+                        <a href="@Url.Action("Edit", new { id = item.IdProducto })" class="btn btn-secondary btn-sm btn-block mt-3 edit-button">Editar</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+
+    .card 
+    {
+        transition: transform 0.3s;
+    }
+
+    .card:hover 
+    {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .card-header 
+    {
+        background-color: #f0f0f0; /* Color de fondo del encabezado */
+    }
+
+    .card-title, .card-text
+    {
+        margin-bottom: 10px; /* Espacio entre título y contenido */
+    }
+
+    .mb-4
+    {
+        margin-bottom: 1rem !important; /* Reducir el margen inferior entre tarjetas */
+    }
+
+    .create-button, .details-button, .edit-button 
+    {
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+    .create-button:hover, .details-button:hover, .edit-button:hover 
+    {
+            background-color: #d3d3d3; 
+            transform: translateY(-2px); 
+    }
+
+</style>
+

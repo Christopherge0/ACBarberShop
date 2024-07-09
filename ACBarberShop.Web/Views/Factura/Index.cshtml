@@ -1,0 +1,62 @@
+﻿@model IEnumerable<ACBarberShop.Application.DTOs.FacturaDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    h1 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+</style>
+
+<h1>Facturas</h1>
+
+<div class="d-flex justify-content-center">
+    <table class="table table-active">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.IdFactura)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IdEstado)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fecha)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdFactura)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.IdEstadoNavigation.Descripccion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Fecha)
+                    </td>
+                    <td>
+                        <div class="btn-group">
+                            <a href="@Url.Action("Edit", new { id = item.IdFactura })" class="btn btn-sm btn-primary">Editar</a>
+                            <a href="@Url.Action("Details", new { id = item.IdFactura })" class="btn btn-sm btn-light">Detalles</a>
+                            <a href="@Url.Action("Delete", new { id = item.IdFactura })" class="btn btn-sm btn-primary">Eliminar</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

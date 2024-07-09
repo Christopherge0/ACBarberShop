@@ -1,0 +1,93 @@
+﻿@model ACBarberShop.Application.DTOs.SucursalDTO
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-header">
+                    <h1 class="card-title text-center mb-1">Editar Sucursal</h1>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Edit">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="IdSucursal" class="control-label">ID de la Sucursal:</label>
+                            <input asp-for="IdSucursal" class="form-control" readonly />
+                            <span asp-validation-for="IdSucursal" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Nombre" class="control-label">Nombre de la Sucursal:</label>
+                            <input asp-for="Nombre" class="form-control" />
+                            <span asp-validation-for="Nombre" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Descripcion" class="control-label">Descripción:</label>
+                            <textarea asp-for="Descripcion" class="form-control" rows="4"></textarea>
+                            <span asp-validation-for="Descripcion" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Telefono" class="control-label">Teléfono:</label>
+                            <input asp-for="Telefono" class="form-control" placeholder="0000-0000" />
+                            <span asp-validation-for="Telefono" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="IdDireccionNavigation.DireccionExacta" class="control-label">Dirección:</label>
+                            <input asp-for="IdDireccionNavigation.DireccionExacta" class="form-control" />
+                            <span asp-validation-for="IdDireccionNavigation.DireccionExacta" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="CorreoElectronico" class="control-label">Correo Electrónico:</label>
+                            <input asp-for="CorreoElectronico" class="form-control" />
+                            <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Usuario" class="control-label">Encargados Actuales:</label>
+                            <ul>
+                                @foreach (var encargado in Model.Usuario)
+                                {
+                                    <li>@encargado.Nombre</li>
+                                }
+                            </ul>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label asp-for="Usuario" class="control-label">Encargados Disponibles:</label>
+                            <select id="selectedUsuarios"
+                                    name="selectedUsuarios"
+                                    class="form-control"
+                                    asp-items="ViewBag.ListUsuario"
+                                    multiple="multiple">
+                            </select>
+                            <span asp-validation-for="Usuario" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary">Guardar Cambios</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Regresar</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

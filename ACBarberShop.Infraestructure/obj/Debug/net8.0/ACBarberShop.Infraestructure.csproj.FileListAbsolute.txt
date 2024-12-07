@@ -1,0 +1,364 @@
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\Proyecto2.0\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+D:\ASP\Proyecto\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Downloads\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\crisg\OneDrive\Desktop\Avance_3_progra_6_casi_terminado\Avance 3 progra 6 casi terminado\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\Proyecto De Angelica y Christopher\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\que pedo\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Desktop\Reparacion del proyecto desde avance 4\Avance 3\GraciasProfe\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\crisg\OneDrive\Desktop\me caago en todo\Posible Solucion\GraciasProfe\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\crisg\OneDrive\Desktop\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Desktop\InvestigacionFinalizada\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\crisg\OneDrive\Desktop\COSORRO\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\InvestigacionFinalizada\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\crisg\OneDrive\Desktop\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Desktop\AVANCE 4 MEJORADO FACTURA SIRVE PERRO\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\Avanse final\Cosoro\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\Avanse final\sevicio\sevicio con login\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Downloads\sevicio\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\Avanse final\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Downloads\sevicio con Horario\sevicio\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\Avanse final\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con Horario (2)\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Users\angeg\Desktop\Avancemos\sevicio con login miedo y progreso de agenda\sevicio con Horario\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\Avanse final\Casi final\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.deps.json
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.runtimeconfig.json
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\bin\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.AssemblyReference.cache
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfoInputs.cache
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.AssemblyInfo.cs
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\refint\ACBarberShop.Infraestructure.dll
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.pdb
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ACBarberShop.Infraestructure.genruntimeconfig.cache
+C:\Progra6\Avanse final\Entrega Final Angelica y Christopher\ACBarberShop\ACBarberShop.Infraestructure\obj\Debug\net8.0\ref\ACBarberShop.Infraestructure.dll
